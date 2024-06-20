@@ -2,7 +2,7 @@ import React from 'react';
 import './whatgpt3.css';
 
 const Whatgpt3 = () => {
-  returnWhatgpt3 (
+  return (
     <div>
       Whatgpt3
     </div>
